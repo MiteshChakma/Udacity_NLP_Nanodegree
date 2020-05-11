@@ -9,7 +9,7 @@
  
  ### English - French Translator with *RNN* ###
  
-*English - French Translator* with RNN is the capstone project in my AIND.
+*English - French Translator* with RNN
 
 My translator can archive 93% accuracy on word level from custom dataset that contains
 
