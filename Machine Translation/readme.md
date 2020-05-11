@@ -7,7 +7,7 @@
  
  ## Contents ##
  
- ### English - French Translatoe with *RNN* ###
+ ### English - French Translator with *RNN* ###
  
 *English - French Translator* with RNN is the capstone project in my AIND.
 
