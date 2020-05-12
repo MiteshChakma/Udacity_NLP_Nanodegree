@@ -17,7 +17,7 @@ My translator can archive 93% accuracy on word level from custom dataset that co
 * 355 unique words from 1,961,295 words in French
 * Implementing the translator, I use word embeding and encoding-decoding layer to improve model preformance.
 
-* Following are libraries I use in this project: *
+#### Following are libraries I use in this project:
 
 * [Tensorflow](https://github.com/tensorflow/tensorflow "Tensorflow") : Deep Learning library from Google
 * [Keras](https://keras.io/ "Keras") : A API for different libraries to build Deep Learning model
